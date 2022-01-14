@@ -1,0 +1,4 @@
+1. npm i express dotenv ejs mongoose multer cookie-parser express-validator jsonwebtoken bcrypt http-errors
+
+2. app.set("view engine", "ejs");    // by default search direct from views folder
+
